@@ -1,2 +1,3 @@
 hello
-data science
+my name is mv mohit kumar
+i am pursuing btech cse data science in cmrit
